@@ -1,0 +1,260 @@
+DOM:
+
+java script is developed by Netscape communication corporation.
+server side : c, c++, java, php, asp, asp.net
+client side: java scriptd, html, css
+
+
+dynamically typed lanuage : java script, python
+  
+statically typed language : cc, cpp, java,...
+
+browser will have js engine:
+
+browser  engine        compnay
+firefox spider monkey   mozilla
+chrome  v8              google
+safari  nitro           apple
+edge   chakra          microsoft
+
+java script:
+internal js
+external js
+inline js
+------------------------------------------------
+.js
+
+document : document object model
+window : window object
+
+
+programming language:
+script language     :
+
+//
+var let const
+
+
+data types:
+Number
+string
+
+var : global scope
+let : block scope
+const : block scope
+
+operators : operators are special symbols which can perform operatations on oprands
+
+3 type of operators are there
+1) unary operator : which works on single operand
+2) binary operator : which works on two operands
+3) ternary operator : which works on three operands
+
+-----------------------------------------------------------
+
+1)arithematic operators: + - * / % ++ --
+2)logical operators: && || !
+3)bitwise operators: & | ^ ~ << >>
+4)asignment operators: = += -= *= /= %=
+5)comparison operators: == === != !== > < >= <=
+
+
+-----------------------------------------------------------
+asignment operators:
+1) =
+= : it assign right side value to left side variable
+
+var a = 10
+
+-------------------------------------------------------
+decsiion making statements:
+1) if else
+2) switch case
+3) loop
+
+
+if else:
+
+if(condition)
+{
+
+}
+else{
+    
+}
+
+
+if(condition){}
+else if(){}
+.
+..
+.
+.
+.
+else{}
+nested if else    
+
+
+logical operaotr:
+
+and &&
+or ||
+not !
+
+
+&&
+no =100
+
+&&
+T               T               t
+F               -               f
+T               F               f
+//no % 2 ==0 && no >= 50 {}
+//22
+
+T              -               t
+F             t               t
+F              F               f
+
+
+no % 2 ==0 || no >= 50 {}
+
+
+user defined function:
+
+void main(){}
+
+void add(){
+
+    //addtion......
+}
+
+add()
+
+------------------------------ 50
+console.log("######################################")
+
+reusablity of code
+maintainability of code
+
+
+type of function:
+!)with argument with return type
+2) with argument without return type
+3)without argument with return type
+4)without argument without return type
+
+
+
+to create funciton in js : function keyword we can use
+
+function add()
+{
+
+}
+
+name
+email
+argumentadd
+conditionsta\\
+
+
+20....
+
+
+null** java script
+
+10 line...
+20 * 10 = 200
+
+
+loop:
+1)entry control loop: for ,while
+2)exit control loop:  do while
+
+
+for loop:
+for(let i=1;i<=10;i++){
+
+    console.log(i)
+}
+
+no =5 = 120  5 * 4 * 3 * 2 * 1
+getFact(no)
+
+return 120
+
+while(condition){
+
+
+}
+
+
+
+153
+1*1*1 + 5*5*5 + 3*3*3 = 153
+
+
+mutablity and immutablity
+
+mutablity = you can change
+immutablity = no change
+
+js string is immutablity.
+
+
+types of string : -
+
+length : it will return the length of string
+toUpperCase() : it will convert the string to upper case
+toLowerCase() : it will convert the string to lower case
+indexOf() : it will return the index of first occurance of character
+lastIndexOf() : it will return the index of last occurance of character
+charAt() : it will return the character at given index
+charCodeAt() : it will return the ascii value of character at given index
+substring() : it will return the substring of given string
+slice() : it will return the slice of given string
+trim() : it will remove the white spaces from start and end of string
+trimStart() : it will remove the white spaces from start of string
+trimEnd() : it will remove the white spaces from end of string
+split() : it will split the string based on given character
+replace() : it will replace the given character with new character
+concat() : it will concat the given string with existing string
+includes() : it will check the given string is present in existing string or not
+startsWith() : it will check the given string is starting with existing string or not
+endsWith() : it will check the given string is ending with existing string or not
+valueOf() : it will return the value of string
+toString() : it will return the string
+search() : it will search the given string in existing string
+
+
+JSON: java script object notation
+
+
+product:
+question:
+own..
+
+array:
+var stu1=65
+vae stu2=75
+...
+100..
+1000...
+10,000
+10,0000 : 
+
+date same : goa, 
+goa:
+
+array: array is group of data..
+mach:index
+index always start from 0 
+
+we can hererogeneous data in array
+
+array is iterable object : we can iterate the array
+array is also subscriptable object : we can access the element of array using index
+array allows duplicate values
+array is mutable object : we can change the value of array
+
